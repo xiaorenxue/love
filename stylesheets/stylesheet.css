@@ -224,6 +224,10 @@ a {
   padding-top: 2rem;
   margin-top: 2rem;
   border-top: solid 1px #eff0f1; }
+.site-footer2 {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
 
 .site-footer-owner {
   display: block;
